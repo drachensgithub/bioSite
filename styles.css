@@ -3,13 +3,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f9fa;
+    background-color: #7D17F9;
     color: #333;
 }
 
 /* Header and Navigation */
 header {
-    background-color: #005bb5;
+    background-color: #D248FA;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -38,7 +38,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f8f9fa;
+    color: #FA5D48;
 }
 
 /* Main Content */
@@ -83,7 +83,7 @@ section p {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #f1f1f1;
+    background-color: #FA48D8;
     color: #666;
 }
 
