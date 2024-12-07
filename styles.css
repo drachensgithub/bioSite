@@ -78,6 +78,26 @@ section p {
 .gallery-image {
     flex: 1;
 }
+/* Image and Caption Styling */
+figure {
+    margin: 10px auto;
+    text-align: center;
+}
+
+figure img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+figcaption {
+    margin-top: 8px;
+    font-size: 0.9rem;
+    color: #555;
+    font-style: italic;
+}
 
 /* Footer */
 footer {
